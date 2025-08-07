@@ -44,7 +44,6 @@ Visualizations
 - Confusion Matrix: Highlights classification strengths and misclassifications
 - ROC & Precision Graphs
 - LIME Explanations: Feature weights and local interpretability
-![Alt Text]('/lime_img.png')
 <img src="lime_img.png" alt="Explainable AI:LIME" width="500"/>
 
 
