@@ -30,7 +30,7 @@ Model Architecture
   - ReLU activation (hidden layers)
   - Softmax (output layer for 10 classes)
 - Trained using cross-entropy loss with Adam optimizer.
-![Alt Text]('model_architecture.png')
+![Alt Text]('/model_architecture.png')
 
 Explainability
 - LIME applied to model predictions to interpret decision logic and enhance transparency.
@@ -44,7 +44,7 @@ Visualizations
 - Confusion Matrix: Highlights classification strengths and misclassifications
 - ROC & Precision Graphs
 - LIME Explanations: Feature weights and local interpretability
-![Alt Text]('lime_img.png')
+![Alt Text]('/lime_img.png')
 
 
 Skills Demonstrated
