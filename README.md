@@ -43,6 +43,8 @@ Visualizations
 - Confusion Matrix: Highlights classification strengths and misclassifications
 - ROC & Precision Graphs
 - LIME Explanations: Feature weights and local interpretability
+![Alt Text]('/Users/deha/Desktop/Screenshot 2025-08-07 at 10.39.43 PM.png')
+
 
 Skills Demonstrated
 - Audio Signal Processing  
@@ -57,6 +59,5 @@ Conclusion
 This project demonstrates a robust pipeline for spoken digit recognition using deep learning. 
 The integration of MFCC and a deep dense neural network led to state-of-the-art accuracy, 
 while the use of LIME made the model interpretable. 
-
 
 
